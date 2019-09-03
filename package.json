@@ -1,0 +1,19 @@
+{
+  "name": "store2be-plop-pack",
+  "version": "0.0.0",
+  "description": "A plop-loadable module that includes generators and helpers useful to store2be developers https://github.com/amwmedia/plop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests :(\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/store2be/store2be-plop-pack.git"
+  },
+  "author": "store2be GmbH <info@store2be.com> (https://www.store2be.com/)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/store2be/store2be-plop-pack/issues"
+  },
+  "homepage": "https://github.com/store2be/store2be-plop-pack#readme"
+}
