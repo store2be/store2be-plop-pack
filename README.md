@@ -6,3 +6,9 @@ See related documentation:
 
 - https://github.com/amwmedia/plop
 - https://github.com/amwmedia/plop/blob/master/plop-load.md<Paste>
+
+## Generators
+
+- `react-class-component`
+- `react-component-spec`
+- `react-function-component`
